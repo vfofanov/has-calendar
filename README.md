@@ -2,6 +2,20 @@
 
 Generates .ics file from yaml
 
+## Prerequisites 
+For run generation 
+1. Install PowerShell
+2. Install [powershell-yaml](https://www.powershellgallery.com/packages/powershell-yaml)
+   ```shell
+   Install-Module -Name powershell-yaml
+   ```
+3. (Optional)If you have problems to install `powershell-yaml`. Run a script bellow and rerun the script 2. 
+   ```shell
+   Unregister-PackageSource -Name PSGallery
+   Register-PSRepository -Default -InstallationPolicy Trusted
+   ```
+   
+## Usage
 1. Apply changes to `Schedule.yml`
 
 | Param         | Description                                                                                                              |
