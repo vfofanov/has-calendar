@@ -4,7 +4,7 @@ Generates .ics file from yaml
 
 ## Prerequisites 
 For run generation 
-1. Install PowerShell
+1. Install [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4)
 2. Install [powershell-yaml](https://www.powershellgallery.com/packages/powershell-yaml)
    ```shell
    Install-Module -Name powershell-yaml
