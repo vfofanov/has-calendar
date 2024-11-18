@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ХАС#6
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+SUMMARY:Добро пожаловать на курс!(запись будет)
+DTSTART:20241117T093000Z
+DTEND:20241117T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикеры:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a><br><br><ul><li>Как решать задачи на курсе, чтобы научиться сдавать код с первой попытки?<b>Лечим синдром LeetCode-pal</b></li><li>Какие активности на курсе?</li><li>Поставим приоритеты по темам, чтобы ты мог прийти к своей цели!</li><li>Просто поболтаем и познакомимся :)</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица паттерны
+DTSTART:20241118T170000Z
+DTEND:20241118T174000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в Avito
+DTSTART:20241118T174000Z
+DTEND:20241118T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Элитный программист
+DTSTART:20241121T170000Z
+DTEND:20241121T183000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикеры:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ClickHouse & Фильтр Блума
+DTSTART:20241121T183000Z
+DTEND:20241121T192000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 1
+DTSTART:20241123T093000Z
+DTEND:20241123T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 2
+DTSTART:20241123T104000Z
+DTEND:20241123T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 3
+DTSTART:20241123T115000Z
+DTEND:20241123T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 4
+DTSTART:20241124T093000Z
+DTEND:20241124T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 5
+DTSTART:20241124T104000Z
+DTEND:20241124T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеш-таблица группа 6
+DTSTART:20241124T115000Z
+DTEND:20241124T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы паттерны
+DTSTART:20241125T170000Z
+DTEND:20241125T174000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в OZON
+DTSTART:20241125T174000Z
+DTEND:20241125T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backtracking для людей
+DTSTART:20241128T170000Z
+DTEND:20241128T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 1
+DTSTART:20241130T093000Z
+DTEND:20241130T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 2
+DTSTART:20241130T104000Z
+DTEND:20241130T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 3
+DTSTART:20241130T115000Z
+DTEND:20241130T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 4
+DTSTART:20241201T093000Z
+DTEND:20241201T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 5
+DTSTART:20241201T104000Z
+DTEND:20241201T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Массивы группа 6
+DTSTART:20241201T115000Z
+DTEND:20241201T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Плавающее окно + Два указателя (SW + 2P)
+DTSTART:20241202T170000Z
+DTEND:20241202T174000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><br>Sliding window and two pointers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в Сбер
+DTSTART:20241202T174000Z
+DTEND:20241202T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Куча (Heap) для людей
+DTSTART:20241205T170000Z
+DTEND:20241205T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 1
+DTSTART:20241207T093000Z
+DTEND:20241207T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 2
+DTSTART:20241207T104000Z
+DTEND:20241207T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 3
+DTSTART:20241207T115000Z
+DTEND:20241207T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 4
+DTSTART:20241208T093000Z
+DTEND:20241208T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 5
+DTSTART:20241208T104000Z
+DTEND:20241208T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SW + 2P группа 6
+DTSTART:20241208T115000Z
+DTEND:20241208T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бинарный поиск + Связный список(BS + LL)
+DTSTART:20241209T170000Z
+DTEND:20241209T174000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><br>Binary Search + Linked List
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в VK
+DTSTART:20241209T174000Z
+DTEND:20241209T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Деревья для людей
+DTSTART:20241212T170000Z
+DTEND:20241212T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кубок AlgoCode! (Соревнование)
+DTSTART:20241214T070000Z
+DTEND:20241214T083000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 1
+DTSTART:20241214T093000Z
+DTEND:20241214T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 2
+DTSTART:20241214T104000Z
+DTEND:20241214T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 3
+DTSTART:20241214T115000Z
+DTEND:20241214T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Разбор задач с соревнования
+DTSTART:20241215T080000Z
+DTEND:20241215T090000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 4
+DTSTART:20241215T093000Z
+DTEND:20241215T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 5
+DTSTART:20241215T104000Z
+DTEND:20241215T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BS + LL группа 6
+DTSTART:20241215T115000Z
+DTEND:20241215T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интервалы + Стек
+DTSTART:20241216T170000Z
+DTEND:20241216T174000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в Яндекс
+DTSTART:20241216T174000Z
+DTEND:20241216T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Графы для людей
+DTSTART:20241218T170000Z
+DTEND:20241218T180000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мега-квиз! 2 команды
+DTSTART:20241219T160000Z
+DTEND:20241219T173000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 1
+DTSTART:20241221T093000Z
+DTEND:20241221T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 2
+DTSTART:20241221T104000Z
+DTEND:20241221T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 3
+DTSTART:20241221T115000Z
+DTEND:20241221T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 4
+DTSTART:20241222T093000Z
+DTEND:20241222T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 5
+DTSTART:20241222T104000Z
+DTEND:20241222T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стек + Интервалы группа 6
+DTSTART:20241222T115000Z
+DTEND:20241222T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы System Design
+DTSTART:20241223T170000Z
+DTEND:20241223T183000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Секреты собеса в T-Банк
+DTSTART:20241223T183000Z
+DTEND:20241223T185000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Design группа 1
+DTSTART:20241228T093000Z
+DTEND:20241228T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Design группа 2
+DTSTART:20241228T104000Z
+DTEND:20241228T114000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Design группа 3
+DTSTART:20241228T115000Z
+DTEND:20241228T125000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Выпускной!
+DTSTART:20241229T093000Z
+DTEND:20241229T103000Z
+DESCRIPTION:<a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a><br><br>Спикеры:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a><br><br>В Новый Год, с новыми скиллами :)
+END:VEVENT
+END:VCALENDAR

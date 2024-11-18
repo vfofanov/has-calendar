@@ -1,0 +1,477 @@
+calName: ХАС#6
+startWeekDate: 2024-11-11
+timezone: Europe/Moscow
+params:
+  - param: meet_link
+    value: <a href="https://telemost.yandex.ru/j/17799615555140"><u>ЗАЛЕТАЙ</u></a>
+  - param: speaker_MF_DS
+    value: |
+      Спикеры:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a><br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+  - param: speaker_MF
+    value: |
+      Спикер:<br><a href="https://t.me/maksimfatin"><u>Максим Фатин</u></a>
+  - param: speaker_DS
+    value: |
+      Спикер:<br><a href="t.me/daniil_slobodeniuk"><u>Даниил Слободенюк</u></a>
+events:
+  # Week 0  
+  - event:
+      summary: Добро пожаловать на курс!(запись будет)
+      week: 0
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF_DS}}<br><br><ul><li>Как решать задачи на курсе, чтобы научиться сдавать код с первой попытки?<b>Лечим синдром LeetCode-pal</b></li><li>Какие активности на курсе?</li><li>Поставим приоритеты по темам, чтобы ты мог прийти к своей цели!</li><li>Просто поболтаем и познакомимся :)</li></ul>
+  
+  # Week 1
+  - event:
+      summary: Хеш-таблица паттерны
+      week: 1
+      day: 0
+      startTime: 20:00
+      endTime: 20:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Секреты собеса в Avito
+      week: 1
+      day: 0
+      startTime: 20:40
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Элитный программист
+      week: 1
+      day: 3
+      startTime: 20:00
+      endTime: 21:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF_DS}}
+  - event:
+      summary: ClickHouse & Фильтр Блума
+      week: 1
+      day: 3
+      startTime: 21:30
+      endTime: 22:20
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Хеш-таблица группа 1
+      week: 1
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Хеш-таблица группа 2
+      week: 1
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Хеш-таблица группа 3
+      week: 1
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Хеш-таблица группа 4
+      week: 1
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Хеш-таблица группа 5
+      week: 1
+      day: 6
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Хеш-таблица группа 6
+      week: 1
+      day: 6
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  
+  # Week 2
+  - event:
+      summary: Массивы паттерны
+      week: 2
+      day: 0
+      startTime: 20:00
+      endTime: 20:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Секреты собеса в OZON
+      week: 2
+      day: 0
+      startTime: 20:40
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Backtracking для людей
+      week: 2
+      day: 3
+      startTime: 20:00
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Массивы группа 1
+      week: 2
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Массивы группа 2
+      week: 2
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Массивы группа 3
+      week: 2
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Массивы группа 4
+      week: 2
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Массивы группа 5
+      week: 2
+      day: 6
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Массивы группа 6
+      week: 2
+      day: 6
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+
+  # Week 3
+  - event:
+      summary: Плавающее окно + Два указателя (SW + 2P)
+      week: 3
+      day: 0
+      startTime: 20:00
+      endTime: 20:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}<br><br>Sliding window and two pointers
+  - event:
+      summary: Секреты собеса в Сбер
+      week: 3
+      day: 0
+      startTime: 20:40
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Куча (Heap) для людей
+      week: 3
+      day: 3
+      startTime: 20:00
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: SW + 2P группа 1
+      week: 3
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: SW + 2P группа 2
+      week: 3
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: SW + 2P группа 3
+      week: 3
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: SW + 2P группа 4
+      week: 3
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: SW + 2P группа 5
+      week: 3
+      day: 6
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: SW + 2P группа 6
+      week: 3
+      day: 6
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  
+  # Week 4
+  - event:
+      summary: Бинарный поиск + Связный список(BS + LL)
+      week: 4
+      day: 0
+      startTime: 20:00
+      endTime: 20:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}<br><br>Binary Search + Linked List
+  - event:
+      summary: Секреты собеса в VK
+      week: 4
+      day: 0
+      startTime: 20:40
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Деревья для людей
+      week: 4
+      day: 3
+      startTime: 20:00
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Кубок AlgoCode! (Соревнование)
+      week: 4
+      day: 5
+      startTime: 10:00
+      endTime: 11:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}  
+  - event:
+      summary: BS + LL группа 1
+      week: 4
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: BS + LL группа 2
+      week: 4
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: BS + LL группа 3
+      week: 4
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Разбор задач с соревнования
+      week: 4
+      day: 6
+      startTime: 11:00
+      endTime: 12:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: BS + LL группа 4
+      week: 4
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: BS + LL группа 5
+      week: 4
+      day: 6
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: BS + LL группа 6
+      week: 4
+      day: 6
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  
+  # Week 5
+  - event:
+      summary: Интервалы + Стек
+      week: 5
+      day: 0
+      startTime: 20:00
+      endTime: 20:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Секреты собеса в Яндекс
+      week: 5
+      day: 0
+      startTime: 20:40
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Графы для людей
+      week: 5
+      day: 2
+      startTime: 20:00
+      endTime: 21:00
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Мега-квиз! 2 команды
+      week: 5
+      day: 3
+      startTime: 19:00
+      endTime: 20:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Стек + Интервалы группа 1
+      week: 5
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Стек + Интервалы группа 2
+      week: 5
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Стек + Интервалы группа 3
+      week: 5
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF}}
+  - event:
+      summary: Стек + Интервалы группа 4
+      week: 5
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Стек + Интервалы группа 5
+      week: 5
+      day: 6
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Стек + Интервалы группа 6
+      week: 5
+      day: 6
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  
+  # Week 6
+  - event:
+      summary: Основы System Design
+      week: 6
+      day: 0
+      startTime: 20:00
+      endTime: 21:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Секреты собеса в T-Банк
+      week: 6
+      day: 0
+      startTime: 21:30
+      endTime: 21:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: System Design группа 1
+      week: 6
+      day: 5
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: System Design группа 2
+      week: 6
+      day: 5
+      startTime: 13:40
+      endTime: 14:40
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: System Design группа 3
+      week: 6
+      day: 5
+      startTime: 14:50
+      endTime: 15:50
+      desc: |
+        {{meet_link}}<br><br>{{speaker_DS}}
+  - event:
+      summary: Выпускной!
+      week: 6
+      day: 6
+      startTime: 12:30
+      endTime: 13:30
+      desc: |
+        {{meet_link}}<br><br>{{speaker_MF_DS}}<br><br>В Новый Год, с новыми скиллами :)
